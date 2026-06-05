@@ -1,0 +1,11 @@
+[package]
+name = "ternary-prophet"
+version = "0.1.0"
+edition = "2021"
+description = "Prediction and forecasting with uncertainty for ternary state systems"
+license = "MIT"
+repository = "https://github.com/SuperInstance/ternary-prophet"
+keywords = ["ternary", "prediction", "forecasting", "trend", "prophet"]
+categories = ["algorithms", "mathematics", "science"]
+
+[dev-dependencies]
