@@ -103,3 +103,11 @@ Part of the SuperInstance ternary ecosystem. Consumes historical data from `tern
 ## License
 
 MIT
+
+## See Also
+- **ternary-predict** — related
+- **ternary-oracle** — related
+- **ternary-bayesian** — related
+- **ternary-kalman** — related
+- **ternary-time-series** — related
+
